@@ -84,8 +84,6 @@ Train/
 
 ## 🧩 Class Diagram
 
-![Class Diagram](./diagram.png)
-
 The system is implemented using basic object-oriented principles with classes such as:
 - `User`
 - `Operator`
